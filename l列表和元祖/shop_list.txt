@@ -1,0 +1,3 @@
+Car	200000
+Iphone  4999
+Cake	2131

@@ -1,0 +1,14 @@
+001       hu      aaa
+
+002       cai     bb
+
+003       gu      cc
+
+004       hul     dddddd
+
+005	  fan	  eee
+
+006	  wu	  fff
+
+
+
